@@ -1,0 +1,7 @@
+com\library\aspect\LoggingAspect.class
+com\library\LibraryManagementApplication.class
+com\library\repository\BookRepository.class
+com\library\repository\BookRepositoryInterface.class
+com\library\controller\BookController.class
+com\library\entity\Book.class
+com\library\service\BookService.class
